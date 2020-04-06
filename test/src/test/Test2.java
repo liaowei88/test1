@@ -7,5 +7,7 @@ public class Test2 {
 		System.out.println("liawei88,你好!,开心的一天,美好的一天");
 		//好的很
 		//哈哈啊啊啊啊阿
+		//真好
+		//好的很
 	}
 }
